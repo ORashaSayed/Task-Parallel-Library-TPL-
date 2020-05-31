@@ -1,0 +1,8 @@
+C:\MyApps\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.deps.json
+C:\MyApps\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\MyApps\Completed\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.pdb
+C:\MyApps\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+C:\MyApps\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+C:\MyApps\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfo.cs
+C:\MyApps\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.dll
+C:\MyApps\Completed\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.pdb

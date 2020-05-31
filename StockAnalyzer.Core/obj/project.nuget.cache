@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AiMy8br5gCsyr87eJ7e0X9FSLbKcuIDdIz/q8j9Wm/ipIMS1zqvrDh+c3nvE9kJ+htjK+5QxnQ8dUNLeKsEHZg==",
+  "success": true,
+  "projectFilePath": "C:\\MyApps\\Completed\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
